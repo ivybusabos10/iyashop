@@ -19,7 +19,7 @@
     "vee-validate": "^2.1.0-beta.9",
     "vue": "^2.5.17",
     "vue-firestore": "^0.2.11",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-recaptcha": "^1.1.1",
     "vue-router": "^3.0.1",
     "vuejs-datatable": "^1.5.3",
